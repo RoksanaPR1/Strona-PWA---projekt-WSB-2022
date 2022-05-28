@@ -1,0 +1,32 @@
+{
+    "theme_color": "#a47349",
+    "background_color": "#d2965b",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/https://roksanapr1.github.io/Strona-PWA---projekt-WSB-2022/",
+    "name": "Roksana Balcerzak coffee blog",
+    "short_name": "CoffeApp",
+    "description": "Aplikacja PWA - Projekt WSB 2022",
+    "icons": [
+        {
+            "src": "./manifest/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./manifest/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
